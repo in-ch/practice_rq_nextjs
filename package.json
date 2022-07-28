@@ -10,6 +10,7 @@
     "server": "json-server --watch db.json --port 4000"
   },
   "dependencies": {
+    "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",
     "axios": "^0.27.2",
     "dotenv-webpack": "^8.0.0",
